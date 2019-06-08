@@ -17,7 +17,7 @@ That kind of challenge in complex and unpredictible environments will also contr
 - And of course the Sonic roms
 
 ## Goal
-It was my first Reinforcement Learning implementation so I decided to pass on the baselines provided for the contest and start from stratch to have an intimate understanding of every step of the process of a DQN algorithm.
+Reinforcement Learning implementationfrom stratch to have an intimate understanding of every step of the process of a DQN algorithm.
 
 ## Concept
 - Input is the observation state of the game in the form of an image capture and the score.
